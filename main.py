@@ -1,6 +1,6 @@
 # main.py
 import argparse
-import prac1
+import prac1  #prac1 스크립트를 가져와 쓰겠다.
 import prac2
 import prac3
 
